@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg?_gl=1*ofln58*_ga*MTU5NTIwOTgxLjE3MzE3NjE5Njk.*_ga_8JE65Q40S6*czE3NTA1OTAxOTUkbzQkZzEkdDE3NTA1OTAyMTUkajQwJGwwJGgw");
+    /* background-size: contain;
+    background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+.box1{
+    background-color: rgba(255, 0, 0, 0.75);
+    background-image: url("https://images.unsplash.com/photo-1741802822447-a165460a7cfb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+.box2{
+    background-color: rgba(0, 255, 0, 0.75);
+    background-image: url("https://images.unsplash.com/photo-1743844914167-5e9ebda81086?q=80&w=696&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+.box3{
+    background-color: rgba(0, 0, 255, 0.75);
+    background-image: url("https://media.istockphoto.com/id/1365865879/photo/happy-face-at-the-beach.jpg?s=2048x2048&w=is&k=20&c=CYSPWxEoO2vZ6pL5VCavAfgQrNfvTLnKFM1s1g8t5so=");
+    background-size: cover;
+}
+.box4{
+    background-color: rgba(255, 255, 0, 0.75);
+    background-image: url("https://media.istockphoto.com/id/1298112055/photo/young-couple-stock-photo.jpg?s=2048x2048&w=is&k=20&c=8nKZ8lv50YvkCqGOJHHbyf4C3gdRSrwll1_geP_jIuo=");
+    background-size: cover;
+}
