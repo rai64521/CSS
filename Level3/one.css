@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.box1{
+    background-color: rgba(255,0,0,0.5);
+}
+
+.box2{
+    background-color: rgba(255,255,0,1);
+    /*display: none; */                /*  to remove disply property set to be none*/
+    visibility: hidden;
+}
+
+.box3{
+    background-color: rgba(0,255,0,0.5);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: medium;
+    font-weight: 400;
+    color: red;
+    background-color: yellow;
+}
