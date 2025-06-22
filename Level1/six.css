@@ -1,0 +1,26 @@
+.heading{
+    text-decoration: underline;
+    text-align: center;
+}
+#one{
+    font-weight: 100;
+}
+
+#two{
+    font-weight: 250;
+}
+
+#three{
+    font-weight: 550 ;
+}
+#four{
+    font-weight: 900;
+}
+
+
+p{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: lighter;
+    line-height: 100px;
+}
+
+.paragraph1{
+    text-transform: capitalize;
+}
+.paragraph2{
+    text-transform: uppercase;
+}
+.paragraph3{
+    text-transform: lowercase;
+}

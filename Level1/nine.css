@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#first{
+    line-height: 50px;
+}

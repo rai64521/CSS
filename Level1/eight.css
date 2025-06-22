@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    text-decoration: line-through;
+    font-weight: lighter;
+    font-size: 30px;
+}
+#one{
+    font-size: 25px;
+}
+#three{
+    font-size: 10px;
+}
