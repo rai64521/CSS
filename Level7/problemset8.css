@@ -1,0 +1,25 @@
+body{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circular{
+    height: 200px;
+    width: 200px;
+    border: 20px solid rgb(207, 203, 203);
+    border-left: 20px solid grey;
+    border-radius: 50%;
+    animation: spinAnimate 2s ease-in-out 0s infinite normal;
+  
+    
+}
+
+@keyframes spinAnimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
